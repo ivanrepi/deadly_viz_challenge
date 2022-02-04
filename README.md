@@ -22,7 +22,7 @@ You may use any of the following visualization libraries:
 
 ## :hammer: __The Challenge__
 
-Your mission is to explore the dataset included in this repo which is filled with official data about the deaths in Spain from 1980 until 2018. As you will find out, the dataset can be better understand it with visualizations. The [__notebook__](https://github.com/potacho/deadly_viz_challenge/blob/master/notebooks/deadly_viz_challenge.ipynb) included in this repo will help you to perform the task but you must be creative as well as effective in the plot configuration process.
+Your mission is to explore the dataset included in this repo which is filled with official data about the deaths in Spain from 1980 until 2018. As you will find out, the dataset can be better understand it with visualizations. The [__notebook__](https://github.com/ih-datapt-mad/deadly_viz_challenge/blob/main/notebooks/deadly_viz_challenge.ipynb) included in this repo will help you to perform the task but you must be creative as well as effective in the plot configuration process.
 
 Your visualizations must generate insights about:
 
